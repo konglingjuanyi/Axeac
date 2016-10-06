@@ -1,26 +1,55 @@
 # Axeac
 
 # 1.产品介绍
+* 
+* 
+*  
 
 # 2.我们为什么创建Axeac？
 
+* 
+* 
+* 
+
 # 3.获取Axeac
 
+* 
+* 
+*  
+
+
 # 4.目录结构
-**  --DB
-**  --Dist
-**  --www
-**  --
+**Other Features**
+
+* Markdown syntax support
+* Distraction-free writing mode
+* `Vim` and `Emacs` editing mode
+* Export notes to PDFs
+* Batch note operation
+* Customizable themes for blogging
+
   
 # 5.
+* 
+* 
+*  
 
 # 6.
-
+* 
+* 
+*  
 # 7.
-
+* 
+* 
+*  
 # 8.
-
+* 
+* 
+*  
 # 9.
+* 
+* 
+*  
 
 # 联系&加入我们
 
