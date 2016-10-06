@@ -22,10 +22,11 @@ Axeac 是一个企业移动应用平台。
 
 
 ##4.目录结构##
-、、、
-|-
-|-
-、、、
+```
+Axeac
+|-DB
+|-Dist
+```
 * Markdown syntax support
 * Distraction-free writing mode
 * `Vim` and `Emacs` editing mode
