@@ -24,16 +24,14 @@ Axeac 是一个企业移动应用平台。
 ###4.目录结构
 ```
 Axeac
-|-DB
-|-Dist
+|-DB  #数据库
+|-Dist  #构建目录
+|-Docs  #文档
+|-FAQ  #问答
+|-
+|-Tools  #相关工具
+|-WebKit  #组件说明
 ```
-* Markdown syntax support
-* Distraction-free writing mode
-* `Vim` and `Emacs` editing mode
-* Export notes to PDFs
-* Batch note operation
-* Customizable themes for blogging
-
   
 ###5.测试 
 **Other Features**
