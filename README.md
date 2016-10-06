@@ -1,6 +1,6 @@
-# Axeac
+#Axeac
 
-## 1.产品介绍 ##
+##1.产品介绍 ##
 * 
 * 
 *  
@@ -11,14 +11,14 @@
 * 
 * 
 
-## 3.获取Axeac ##
+##3.获取Axeac ##
 
 * 
 * 
 *  
 
 
-## 4.目录结构##
+##4.目录结构##
 * |-
 * |-
 
@@ -30,27 +30,27 @@
 * Customizable themes for blogging
 
   
-## 5.测试 ##
+##5.测试 ##
 **Other Features**
 * 
 * 
 * 
-## 6.帮助 ##
-**Other Features**
-* 
-* 
-*  
-## 7.安装 ##
+##6.帮助 ##
 **Other Features**
 * 
 * 
 *  
-## 8.授权 ##
+##7.安装 ##
 **Other Features**
 * 
 * 
 *  
-## 9.License ##
+##8.授权 ##
+**Other Features**
+* 
+* 
+*  
+##9.License ##
 **Other Features**
 * 
 * 
