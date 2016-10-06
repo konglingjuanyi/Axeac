@@ -1,6 +1,6 @@
 ##Axeac
 
-<h1><a href="http://axeac.org/" title="Axeac 官网"><img style="float: left" width="240" src="https://raw.githubusercontent.com/allmobilize/amazeui/master/vendor/amazeui/amazeui-b.png" alt="Axeac UI Logo"/></a></h1>
+<h1><a href="http://www.axeac.com/" title="Axeac 官网">Axeac官网</a></h1>
 
 ###1.产品介绍 
 
