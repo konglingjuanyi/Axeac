@@ -1,5 +1,7 @@
 ##Axeac
 
+<h1><a href="http://axeac.org/" title="Axeac 官网"><img style="float: left" width="240" src="https://raw.githubusercontent.com/allmobilize/amazeui/master/vendor/amazeui/amazeui-b.png" alt="Axeac UI Logo"/></a></h1>
+
 ###1.产品介绍 
 
 Axeac 是一个企业移动应用平台。
@@ -35,38 +37,38 @@ Axeac
 * Customizable themes for blogging
 
   
-##5.测试 ##
+###5.测试 
 **Other Features**
 * 
 * 
 * 
 
 
-##6.帮助 ##
-**Other Features**
-* 
-* 
-*  
-
-##7.安装 ##
+###6.帮助 
 **Other Features**
 * 
 * 
 *  
 
-##8.授权 ##
+###7.安装
 **Other Features**
 * 
 * 
 *  
 
-##9.License ##
+###8.授权 
 **Other Features**
 * 
 * 
 *  
 
-# 联系&加入我们
+###9.License 
+**Other Features**
+* 
+* 
+*  
+
+###联系&加入我们
 
 * 北京快虎信息技术有限公司
 * 网址:www.axeac.com
