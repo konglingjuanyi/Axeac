@@ -53,7 +53,7 @@
 
 # 联系&加入我们
 
-  北京快虎信息技术有限公司
-  网址:www.axeac.com
-  电话:18610657365
-  邮箱:axeac@axeac.com  
+* 北京快虎信息技术有限公司
+* 网址:www.axeac.com
+* 电话:18610657365
+* 邮箱:axeac@axeac.com  
