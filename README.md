@@ -19,7 +19,8 @@
 
 
 ## 4.目录结构##
-**Other Features**
+* |-
+* |-
 
 * Markdown syntax support
 * Distraction-free writing mode
@@ -29,23 +30,28 @@
 * Customizable themes for blogging
 
   
-## 5. ##
+## 5.测试 ##
+**Other Features**
 * 
 * 
 * 
-## 6. ##
+## 6.帮助 ##
+**Other Features**
 * 
 * 
 *  
-## 7. ##
+## 7.安装 ##
+**Other Features**
 * 
 * 
 *  
-## 8. ##
+## 8.授权 ##
+**Other Features**
 * 
 * 
 *  
 ## 9.License ##
+**Other Features**
 * 
 * 
 *  
