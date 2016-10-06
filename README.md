@@ -1,7 +1,5 @@
 ##Axeac
 
-<h3><a href="http://www.axeac.com/" title="Axeac 官网">Axeac官网</a></h3>
-
 ###1.产品介绍 
 
 Axeac 是一个企业移动应用平台。
