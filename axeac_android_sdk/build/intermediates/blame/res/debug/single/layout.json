@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_capture.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_capture.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\gf_adapter_folder_list_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\layout\\gf_adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_text_url.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_text_url.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_table_item_data.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_table_item_data.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_text_auto.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_text_auto.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\gf_adapter_preview_viewpgaer_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\layout\\gf_adapter_preview_viewpgaer_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_text_phone.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_text_phone.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_layout_normal.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_layout_normal.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_fileselector.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_fileselector.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_adjunct_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_adjunct_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\gf_adapter_photo_list_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\layout\\gf_adapter_photo_list_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_choice.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_choice.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_htmllist_refresh.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_htmllist_refresh.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_dialog_item_opt.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_dialog_item_opt.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_text_mail.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_text_mail.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_group_container.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_group_container.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_table_item_btn.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_table_item_btn.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_backlog.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_backlog.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\gf_activity_photo_edit.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\layout\\gf_activity_photo_edit.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_codescan.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_codescan.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_record.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_record.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_map_view.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_map_view.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_fragment_main_2.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_fragment_main_2.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_click.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_click.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_layout_loading_view.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_layout_loading_view.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_systembuttom.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_systembuttom.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_operating_dialog.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_operating_dialog.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_text.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_text.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_menuitem.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_menuitem.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_fileselector_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_fileselector_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_common_layout_normal.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_common_layout_normal.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_datetime.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_datetime.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_fragment_main_1.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_fragment_main_1.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\gf_adapter_edit_list.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\layout\\gf_adapter_edit_list.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_operating_users_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_operating_users_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_alert_dialog.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_chart.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_chart.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_tab_container.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_tab_container.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_toolbar.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_toolbar.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_map_point_pressed.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_map_point_pressed.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_activity_main.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_activity_main.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_code2d.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_code2d.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\gf_activity_photo_select.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\layout\\gf_activity_photo_select.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\gf_activity_photo_preview.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\layout\\gf_activity_photo_preview.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_label_choice_2.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_label_choice_2.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_mulit.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_mulit.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_table_item_title.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_table_item_title.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_table.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_table.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_operating_aids_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_operating_aids_item.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\layout\\axeac_gridmenu_item.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\layout\\axeac_gridmenu_item.xml"
+    }
+]

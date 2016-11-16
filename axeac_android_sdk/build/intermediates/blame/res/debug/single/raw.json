@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\raw\\gestures",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\raw\\gestures"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\raw\\khmap5.cert",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\raw\\khmap5.cert"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

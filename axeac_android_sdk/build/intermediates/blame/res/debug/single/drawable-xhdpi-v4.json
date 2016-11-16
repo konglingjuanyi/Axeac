@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_index01.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_index01.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gf_ic_preview.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\gf_ic_preview.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_dashed.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_dashed.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_map_delete.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_map_delete.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_label_choice_check.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_label_choice_check.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_zip.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_zip.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_asc.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_asc.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_back.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_back.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_video.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_video.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_page_prev.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_page_prev.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_html.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_html.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_code2d_bg.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_code2d_bg.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_txt.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_txt.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_page_first.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_page_first.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_turn_right.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_turn_right.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_dir.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_dir.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_url.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_url.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_switch_open.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_switch_open.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_map_searchbar_bg.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_map_searchbar_bg.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_apk.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_apk.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_pdf.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_pdf.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_adjunct_preview.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_adjunct_preview.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_music.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_music.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_desc.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_desc.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_select_icon_up.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_select_icon_up.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_mail.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_mail.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_switch_close.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_switch_close.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_scanclick.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_scanclick.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_refresh_up_arrow.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_refresh_up_arrow.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_index1.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_index1.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_camera.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_camera.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_record_start.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_record_start.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_map_marker.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_map_marker.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_msg.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_msg.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_crop.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_crop.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_select_icon_down.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_select_icon_down.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_turn_left.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_turn_left.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_phone.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_phone.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_default_photo.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_default_photo.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_page_next.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_page_next.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_map_search.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_map_search.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_clear.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_clear.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_refresh_down_arrow.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_refresh_down_arrow.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_doc.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_doc.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_btn_home.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_btn_home.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_record_stop.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_record_stop.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_ppt.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_ppt.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_picture.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_picture.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_done.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_done.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_auto.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_auto.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_page_last.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_page_last.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_xls.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_xls.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_delete_photo.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_delete_photo.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_adjunct_download.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_adjunct_download.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_rotate.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_rotate.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_record_time.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_record_time.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_triangle_arrow.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_triangle_arrow.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_index02.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_index02.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_map_location_marker.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_map_location_marker.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_file_icon_unknow.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_file_icon_unknow.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_gf_crop_tile.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable-xhdpi\\ic_gf_crop_tile.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\axeac_index2.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\src\\main\\res\\drawable-xhdpi\\axeac_index2.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    }
+]

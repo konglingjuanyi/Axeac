@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_noti_bg.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_noti_bg.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_label_choice_enable.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_label_choice_enable.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_group_container_all.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_group_container_all.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_datetime_val.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_datetime_val.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_backlog_bg1.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_backlog_bg1.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_tab_bg_normal.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_tab_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_bg_edit.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_bg_edit.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_round_bg.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_round_bg.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_group_container_content.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_group_container_content.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_alert_dialog_top.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_alert_dialog_top.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_backlog_bg3.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_backlog_bg3.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_gf_crop_texture.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\cn.finalteam\\galleryfinal\\1.4.8.7\\res\\drawable\\bg_gf_crop_texture.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_group_container_title.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_group_container_title.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_datetime_bg.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_datetime_bg.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_operating_choice.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_operating_choice.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_label_choice_disable.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_label_choice_disable.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_scan_photo.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_scan_photo.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_scan_flashlight.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_scan_flashlight.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_backlog_bg2.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_backlog_bg2.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_tab_bg_selected.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_tab_bg_selected.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\axeac_alert_dialog_bottom.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\bundles\\debug\\res\\drawable\\axeac_alert_dialog_bottom.xml"
+    },
+    {
+        "merged": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\My Documents\\AndoridStudioProject\\TestWebView\\axeac_sdk\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    }
+]

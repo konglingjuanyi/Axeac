@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.kuaihusoft.workcenter.sdk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true" >
+        <activity
+            android:name="cn.kuaihusoft.workcenter.sdk.activity.ComponentActivity"
+            android:configChanges="orientation|screenSize|fontScale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cn.kuaihusoft.workcenter.sdk.activity.MainActivity1"
+            android:configChanges="orientation|screenSize|fontScale"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cn.kuaihusoft.workcenter.sdk.activity.ImageShowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cn.kuaihusoft.workcenter.sdk.activity.FileSelectorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cn.kuaihusoft.workcenter.sdk.activity.CaptureActivity"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="cn.kuaihusoft.workcenter.sdk.provider.MapSuggestionProvider"
+            android:authorities="cn.kuaihusoft.workcenter.client.MapSuggestionProvider"
+            android:exported="true" />
+
+        <meta-data
+            android:name="cn.kuaihusoft.workcenter.sdk.utils.MyGlideMoudle"
+            android:value="GlideModule" />
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="d408c7bf7a27a87f4c534c3770310ec6" />
+    </application>
+
+</manifest>
