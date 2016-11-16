@@ -26,6 +26,11 @@ Axeac 是一个企业移动应用平台。
 Axeac
 |-DB      #数据库
 |-Dist    #构建目录
+  |-Axeac_Android_Client    #Axeac Android客户端
+  |-Axeac_Android_SDK       #Axeac Android SDK
+  |-Axeac_iOS_Client    #Axeac iOS客户端
+  |-Axeac_iOS_SDK       #Axeac iOS SDK
+  |-Axeac_Consle    #Axeac Console 后台管理
 |-Docs    #文档
 |-FAQ     #问答
 |-Help    #帮助文档
