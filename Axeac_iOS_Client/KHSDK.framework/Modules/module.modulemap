@@ -1,0 +1,6 @@
+framework module KHSDK {
+  umbrella header "KHSDK.h"
+
+  export *
+  module * { export * }
+}
